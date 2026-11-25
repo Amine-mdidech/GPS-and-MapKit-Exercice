@@ -1,4 +1,4 @@
-<img width="300" height="450" alt="Simulator Screenshot - iPhone 17 - 2026-11-25 at 19 15 57" src="https://github.com/user-attachments/assets/5b6023a4-2f6e-4ead-a020-e47ad8adf8ca" /> <img width="300" height="450" alt="Simulator Screenshot - iPhone 17 - 2026-11-25 at 19 15 40" src="https://github.com/user-attachments/assets/d6f0066c-c1b6-4ade-b246-1bd204240feb" />
+<img width="200" height="450" alt="Simulator Screenshot - iPhone 17 - 2026-11-25 at 19 15 57" src="https://github.com/user-attachments/assets/5b6023a4-2f6e-4ead-a020-e47ad8adf8ca" /> <img width="200" height="450" alt="Simulator Screenshot - iPhone 17 - 2026-11-25 at 19 15 40" src="https://github.com/user-attachments/assets/d6f0066c-c1b6-4ade-b246-1bd204240feb" />
 
 A clean, modern iOS app that tracks your walks and runs.
 Press **Start**, move around, and watch your route being drawn live on the map while distance and time update in real time. Press **Stop**, and the walk is saved to your history so you can open it again anytime.
